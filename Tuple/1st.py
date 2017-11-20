@@ -1,0 +1,5 @@
+a,b,*c,d=(1,2,3,6,5,4,8,7,9)
+print(a)
+print(b)
+print(c)
+print(d)
